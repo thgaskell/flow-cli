@@ -4,8 +4,8 @@ go 1.18
 
 require (
 	github.com/dukex/mixpanel v1.0.1
-	github.com/go-git/go-git/v5 v5.6.0
 	github.com/getsentry/sentry-go v0.19.0
+	github.com/go-git/go-git/v5 v5.6.0
 	github.com/onflow/cadence v0.31.3
 	github.com/onflow/cadence-tools/languageserver v0.7.1
 	github.com/onflow/cadence-tools/test v0.4.0
@@ -13,7 +13,7 @@ require (
 	github.com/onflow/flow-cli/pkg/flowkit v0.0.0-20230310125943-142d09ab330f
 	github.com/onflow/flow-emulator v0.44.2
 	github.com/onflow/flow-go-sdk v0.33.0
-	github.com/onflowser/flowser/v2 v2.0.9-beta
+	github.com/onflowser/flowser/v2 v2.0.14-beta
 	github.com/pkg/errors v0.9.1
 	github.com/psiemens/sconfig v0.1.0
 	github.com/radovskyb/watcher v1.0.7
